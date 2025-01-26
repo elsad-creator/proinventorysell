@@ -1,0 +1,27 @@
+# Virtual environment qovluqları
+myenv/
+venv/
+env/
+
+# Məxfi məlumatlar
+.env
+*.env
+
+# Verilənlər bazası faylları
+db.sqlite3
+
+# Python cache faylları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log faylları
+logs/
+
+# IDE və editor faylları
+.vscode/
+.idea/
+
+# Sistem faylları
+.DS_Storeproinventorysell/
